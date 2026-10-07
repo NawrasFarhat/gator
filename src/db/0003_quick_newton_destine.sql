@@ -1,0 +1,1 @@
+ALTER TABLE "feed_follows" ADD COLUMN "created_at" timestamp DEFAULT now() NOT NULL;

@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790899512624,
+      "tag": "0000_absent_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791370304492,
+      "tag": "0001_equal_white_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791376287464,
+      "tag": "0002_exotic_stardust",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791378087231,
+      "tag": "0003_quick_newton_destine",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791390452187,
+      "tag": "0004_overjoyed_squadron_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1791394707091,
+      "tag": "0005_open_diamondback",
+      "breakpoints": true
+    }
+  ]
+}
